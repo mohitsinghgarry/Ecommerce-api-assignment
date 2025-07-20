@@ -26,7 +26,8 @@ A robust and scalable backend API for an e-commerce platform, built with Python,
 
 Once deployed, you can access the live, interactive API documentation here:
 
-**[➡️ Your Live API URL]/docs**
+[**[➡️ Your Live API URL]/docs**](https://ecommerce-api-assignment-2.onrender.com/)
+
 
 ---
 
