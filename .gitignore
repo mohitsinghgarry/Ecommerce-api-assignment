@@ -1,0 +1,26 @@
+# Virtual environment (if you're using venv)
+venv/
+pyvenv.cfg
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Uploads (optional, if you don’t want CSV files in Git)
+uploads/
+
+# Log files
+*.log
+
+# Ignore IDE specific files (optional)
+.vscode/
+.idea/
+
+# Ignore system files (optional)
+.DS_Store
+Thumbs.db
